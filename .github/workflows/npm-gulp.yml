@@ -26,4 +26,4 @@ jobs:
       run: |
         npm install
         npm run build
-        ls -ltr
+        git commit -am "updated-ci"
